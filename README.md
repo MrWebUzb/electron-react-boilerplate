@@ -1,0 +1,1 @@
+# Basic electron react application boilerplate

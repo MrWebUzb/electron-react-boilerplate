@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "format.OnSave": true,
+    "prettier.eslintIntegration": true,
+    "prettier.requireConfig": true,
+}
